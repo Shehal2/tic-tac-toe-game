@@ -1,1 +1,1 @@
-﻿This game is Develoed using Java
+﻿This game is Developed using Java
